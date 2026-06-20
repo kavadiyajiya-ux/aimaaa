@@ -1,6 +1,8 @@
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 import streamlit as st
 import pandas as pd
-import os
 import json
 from datetime import datetime
 
