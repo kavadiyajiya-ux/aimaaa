@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# HuggingFace cache
+.hf_cache/
+
+# Local databases & transient files
+chroma_db/
+incidents.csv
+reports/

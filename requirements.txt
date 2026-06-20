@@ -1,0 +1,14 @@
+streamlit>=1.35.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+langgraph>=0.0.60
+langchain>=0.2.0
+langchain-openai>=0.1.8
+langchain-community>=0.2.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pandas>=2.2.0
+plotly>=5.22.0
+openai>=1.30.0
+python-dotenv>=1.0.1
+huggingface-hub>=0.23.0
